@@ -1,0 +1,37 @@
+{
+  "n_episodes_per_type": 200,
+  "seed": 7,
+  "per_type": {
+    "sycophancy": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "f1": 1.0,
+      "flagged": 200,
+      "total": 200
+    },
+    "keyword_stuffer": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "f1": 1.0,
+      "flagged": 200,
+      "total": 200
+    },
+    "fabricator": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "f1": 1.0,
+      "flagged": 200,
+      "total": 200
+    },
+    "busywork": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "f1": 1.0,
+      "flagged": 200,
+      "total": 200
+    }
+  },
+  "honest_false_positive_rate": 0.0,
+  "honest_flagged": 0,
+  "honest_total": 200
+}
